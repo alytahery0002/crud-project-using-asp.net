@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\asp.net\\test\\ConsoleAppDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|d:\\code\\asp.net\\test\\consoleappdi\\consoleappdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|solutionrelative:consoleappdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|d:\\code\\asp.net\\test\\consoleappdi\\consoleappdi\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|solutionrelative:consoleappdi\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|d:\\code\\asp.net\\test\\consoleappdi\\consoleappdi\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|solutionrelative:consoleappdi\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|d:\\code\\asp.net\\test\\consoleappdi\\consoleappdi\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89327AF0-1E00-4FEC-AA02-66A5BE12212D}|ConsoleAppDI\\ConsoleAppDI.csproj|solutionrelative:consoleappdi\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 128,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\IMessageService.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDI\\IMessageService.cs",
+              "ToolTip": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\IMessageService.cs",
+              "RelativeToolTip": "ConsoleAppDI\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:32:10.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\EmailService.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDI\\EmailService.cs",
+              "ToolTip": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\EmailService.cs",
+              "RelativeToolTip": "ConsoleAppDI\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:21:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMSService.cs",
+              "DocumentMoniker": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\SMSService.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDI\\SMSService.cs",
+              "ToolTip": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\SMSService.cs",
+              "RelativeToolTip": "ConsoleAppDI\\SMSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:18:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDI\\Program.cs",
+              "ToolTip": "D:\\code\\asp.net\\test\\ConsoleAppDI\\ConsoleAppDI\\Program.cs*",
+              "RelativeToolTip": "ConsoleAppDI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:15:35.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
